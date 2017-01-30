@@ -1,47 +1,42 @@
-    let $table = $("#tBody");
+        let $table = $("tbody");
 
 
-    let appendMovies = ((a, $table) => {
-        $table.append(
-            `<tr>
+        let getData = new XMLHttpRequest();
+        getData.open("GET", "javascript/movies.json", true);
+        getData.send();
+
+        getData.onload = function() {
+            let jsonData = JSON.parse(getData.response);
+            // movies = data;
+            // filterMovies = movies;
+            addMovies(jsonData, $table);
+        };
+        // Add Movies on html.
+        let addMovies = (data, $table) => {
+            data.forEach((a) => {
+                $table.append(
+                    `<tr>
                 <td>${a.title}</td>
                 <td>${a.rating}</td>
                 <td>${a.author}</td>
-                <td><img src="${a.img}"></td>
+                <td><a href = "http://www.imdb.com/chart/top?ref_=nv_mv_250_6"></a><img src="${a.img}"></td>
                 </tr>`
-        )
-    });
-// jquerry skraten document.ready 
-$(() => {
+                )
+            })
 
-   
-    $('#searchItem').keyup(function () {
-        var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-        $table.show().filter(function () {
-            var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
-            return !~text.indexOf(val);
-        }).hide();
-    });
+        };
 
-
-
-    let getData = new XMLHttpRequest();
-
-    getData.open("GET", "js/movies.json", true);
-    getData.send(null);
-
-    getData.onload = function () {
-        let data = JSON.parse(getData.response);
-        movies = data;
-        filterMovies = movies;
-
-        filterMovies.forEach((a)=>{
-            appendMovies(a,$table);
-        })
-    };
-
-});
-
+        // jquerry skraten document.ready 
+        $(() => {
+            var $rows = $("#myTable tr");
+            $('#searchItem').keyup(function() {
+                var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+                $rows.show().filter(function() {
+                    var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+                    return !~text.indexOf(val);
+                }).hide();
+            });
+        });
 
 
  
