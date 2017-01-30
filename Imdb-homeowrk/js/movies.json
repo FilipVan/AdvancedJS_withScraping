@@ -1,0 +1,1502 @@
+[
+{
+"title": "The Shawshank Redemption",
+"author": "Frank Darabont (dir.), Tim Robbins, Morgan Freeman",
+"rating": "9.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Godfather",
+"author": "Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",
+"rating": "9.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Godfather: Part II",
+"author": "Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",
+"rating": "9.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjZiNzIxNTQtNDc5Zi00YWY1LThkMTctMDgzYjY4YjI1YmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Dark Knight",
+"author": "Christopher Nolan (dir.), Christian Bale, Heath Ledger",
+"rating": "8.9",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "12 Angry Men",
+"author": "Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",
+"rating": "8.9",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Schindler's List",
+"author": "Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",
+"rating": "8.9",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzMwMTM4MDU2N15BMl5BanBnXkFtZTgwMzQ0MjMxMDE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Pulp Fiction",
+"author": "Quentin Tarantino (dir.), John Travolta, Uma Thurman",
+"rating": "8.9",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Lord of the Rings: The Return of the King",
+"author": "Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",
+"rating": "8.9",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MjA1NTAyMV5BMl5BanBnXkFtZTcwNzM1NDQyMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Good, the Bad and the Ugly",
+"author": "Sergio Leone (dir.), Clint Eastwood, Eli Wallach",
+"rating": "8.8",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Fight Club",
+"author": "David Fincher (dir.), Brad Pitt, Edward Norton",
+"rating": "8.8",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzc1YmU2ZjEtYWIwMC00ZjM3LWI0NTctMDVlNGQ3YmYwMzE5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Lord of the Rings: The Fellowship of the Ring",
+"author": "Peter Jackson (dir.), Elijah Wood, Ian McKellen",
+"rating": "8.8",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyMjAwMDU1OV5BMl5BanBnXkFtZTcwNDQyNTkxMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Star Wars: Episode V - The Empire Strikes Back",
+"author": "Irvin Kershner (dir.), Mark Hamill, Harrison Ford",
+"rating": "8.7",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmViY2M2MTYtY2MzOS00YjQ1LWIzYmEtOTBiNjhlMGM0NjZjXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Forrest Gump",
+"author": "Robert Zemeckis (dir.), Tom Hanks, Robin Wright",
+"rating": "8.7",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR3,0,45,67_AL_.jpg"
+},
+{
+"title": "Inception",
+"author": "Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",
+"rating": "8.7",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Lord of the Rings: The Two Towers",
+"author": "Peter Jackson (dir.), Elijah Wood, Ian McKellen",
+"rating": "8.7",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyNDU0NjY4NTheQTJeQWpwZ15BbWU2MDk4MTY2Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "One Flew Over the Cuckoo's Nest",
+"author": "Milos Forman (dir.), Jack Nicholson, Louise Fletcher",
+"rating": "8.7",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Goodfellas",
+"author": "Martin Scorsese (dir.), Robert De Niro, Ray Liotta",
+"rating": "8.7",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThjMzczMjctZmIwOC00NTQ4LWJhZWItZDdhNTk5ZTdiMWFlXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Matrix",
+"author": "Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",
+"rating": "8.7",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDMyMmQ5YzgtYWMxOC00OTU0LWIwZjEtZWUwYTY5MjVkZjhhXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Seven Samurai",
+"author": "Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5MDY1MjU5MF5BMl5BanBnXkFtZTgwNDM2OTE4MzE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Star Wars: Episode IV - A New Hope",
+"author": "George Lucas (dir.), Mark Hamill, Harrison Ford",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGEzZTExMDEtNjg4OC00NjQxLTk5NTUtNjRkNjA3MmYwZjg1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "City of God",
+"author": "Fernando Meirelles (dir.), Alexandre Rodrigues, Matheus Nachtergaele",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Se7en",
+"author": "David Fincher (dir.), Morgan Freeman, Brad Pitt",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwNTU3MTE4NF5BMl5BanBnXkFtZTcwOTgxNDM2Mg@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Silence of the Lambs",
+"author": "Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "It's a Wonderful Life",
+"author": "Frank Capra (dir.), James Stewart, Donna Reed",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzMzY5NDc4M15BMl5BanBnXkFtZTcwMzc4NjIxNw@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Usual Suspects",
+"author": "Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Life Is Beautiful",
+"author": "Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "La La Land",
+"author": "Damien Chazelle (dir.), Ryan Gosling, Emma Stone",
+"rating": "8.6",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Léon: The Professional",
+"author": "Luc Besson (dir.), Jean Reno, Gary Oldman",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjdjMGU3MGYtN2Y5ZC00MTE4LWE4YWQtMTBhMjc3MTk0ZDUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Spirited Away",
+"author": "Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmU5OTQ0OWQtOTY0OS00Yjg4LWE1NDYtNDRhYWMxYWY4OTMwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Saving Private Ryan",
+"author": "Steven Spielberg (dir.), Tom Hanks, Matt Damon",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Once Upon a Time in the West",
+"author": "Sergio Leone (dir.), Henry Fonda, Charles Bronson",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjFiOTlmMzgtOGZlYi00NjY0LThmMzEtNmQ0OTgxNGViOTZmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "American History X",
+"author": "Tony Kaye (dir.), Edward Norton, Edward Furlong",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2E2MWU5ZDktOTQ0OS00NGIzLTg4YTgtYjFhNTRlMjA1NzFjL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Interstellar",
+"author": "Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Casablanca",
+"author": "Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYjlkMjk1MTItZGJkZC00NGE1LTllYjktZDQ3MWFmOGNhZWE2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Psycho",
+"author": "Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "City Lights",
+"author": "Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NDQ5MDMzOV5BMl5BanBnXkFtZTgwODY2MjcyMjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Green Mile",
+"author": "Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Raiders of the Lost Ark",
+"author": "Steven Spielberg (dir.), Harrison Ford, Karen Allen",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Intouchables",
+"author": "Olivier Nakache (dir.), François Cluzet, Omar Sy",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Modern Times",
+"author": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyMTkxNjI5OF5BMl5BanBnXkFtZTYwMjI2MjA5._V1_UY67_CR2,0,45,67_AL_.jpg"
+},
+{
+"title": "Rear Window",
+"author": "Alfred Hitchcock (dir.), James Stewart, Grace Kelly",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Pianist",
+"author": "Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg"
+},
+{
+"title": "The Departed",
+"author": "Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Terminator 2: Judgment Day",
+"author": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDM2YjYwYWMtMWZlNi00ZDQxLWExMDctMDAzNzQ0OTkzZjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Back to the Future",
+"author": "Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Whiplash",
+"author": "Damien Chazelle (dir.), Miles Teller, J.K. Simmons",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTVhMWQ5MDktMGE3OS00MjVlLWExZWYtMzY2MTg4ZGFiZDQ5L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Gladiator",
+"author": "Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzQzNTQ1Ml5BMl5BanBnXkFtZTgwMDY2NTYxMTE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Memento",
+"author": "Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNThiYjM3MzktMDg3Yy00ZWQ3LTk3YWEtN2M0YmNmNWEwYTE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Apocalypse Now",
+"author": "Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWNjNjZjYmMtOTRjOC00ZGIwLWI2YzEtMjkxNTAzODkzZDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Prestige",
+"author": "Christopher Nolan (dir.), Christian Bale, Hugh Jackman",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Lion King",
+"author": "Roger Allers (dir.), Matthew Broderick, Jeremy Irons",
+"rating": "8.5",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Alien",
+"author": "Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNhN2IxZWItNGEwYS00ZDNhLThiM2UtODU3NWJlZjBkYjQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+"author": "Stanley Kubrick (dir.), Peter Sellers, George C. Scott",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTkxYjUxNDYtZGY0My00NTc2LThiZmYtNmNmNmU0NGVkZWYwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Sunset Boulevard",
+"author": "Billy Wilder (dir.), William Holden, Gloria Swanson",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NDYzODAwNV5BMl5BanBnXkFtZTgwODg1MTczMTE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Great Dictator",
+"author": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NDAwMDgzOV5BMl5BanBnXkFtZTgwNDI2MjA0MjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Lives of Others",
+"author": "Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDUzNjYwNDYyNl5BMl5BanBnXkFtZTcwNjU3ODQ0MQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Cinema Paradiso",
+"author": "Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzMTgzOTEwOF5BMl5BanBnXkFtZTgwNTUxNjcxMTE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Paths of Glory",
+"author": "Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Grave of the Fireflies",
+"author": "Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMzUwMTMxMl5BMl5BanBnXkFtZTgwODYyMDk2MjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Django Unchained",
+"author": "Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Shining",
+"author": "Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2I4ZTNlMGUtZGFlYS00NDI4LWIxOTEtYTA0YTFhNTdmNzViXkEyXkFqcGdeQXVyNTgzMzU5MDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "WALL·E",
+"author": "Andrew Stanton (dir.), Ben Burtt, Elissa Knight",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "American Beauty",
+"author": "Sam Mendes (dir.), Kevin Spacey, Annette Bening",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM4NTI5NzYyNV5BMl5BanBnXkFtZTgwNTkxNTYxMTE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Dark Knight Rises",
+"author": "Christopher Nolan (dir.), Christian Bale, Tom Hardy",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Princess Mononoke",
+"author": "Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTVlNWM4NTAtNDQxYi00YWU5LWIwM2MtZmVjYWFmODZiODE5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Aliens",
+"author": "James Cameron (dir.), Sigourney Weaver, Michael Biehn",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGYxMTA0M2EtYjg0Yy00NzI5LTg4NjEtZDA2MTcyOWM0YTVjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Oldboy",
+"author": "Chan-wook Park (dir.), Min-sik Choi, Ji-tae Yu",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Once Upon a Time in America",
+"author": "Sergio Leone (dir.), Robert De Niro, James Woods",
+"rating": "8.4",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Citizen Kane",
+"author": "Orson Welles (dir.), Orson Welles, Joseph Cotten",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2Mjc1MDQwMl5BMl5BanBnXkFtZTcwNzUyOTUyMg@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Das Boot",
+"author": "Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGRmOWY0MGUtNTVhMy00NzRlLTljNDAtNTBiNTRlODgxNmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Witness for the Prosecution",
+"author": "Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0MjgyNTUyNF5BMl5BanBnXkFtZTcwNDQzMDg0Nw@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "North by Northwest",
+"author": "Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMTQ0MzgwNl5BMl5BanBnXkFtZTgwNjc4ODE4MzE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Vertigo",
+"author": "Alfred Hitchcock (dir.), James Stewart, Kim Novak",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Star Wars: Episode VI - Return of the Jedi",
+"author": "Richard Marquand (dir.), Mark Hamill, Harrison Ford",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODllZjg2YjUtNWEzNy00ZGY2LTgyZmQtYTkxNDYyOWM3OTUyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Reservoir Dogs",
+"author": "Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjE5ZDJiZTQtOGE2YS00ZTc5LTk0OGUtOTg2NjdjZmVlYzE2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "M",
+"author": "Fritz Lang (dir.), Peter Lorre, Ellen Widmann",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyNjA5NzU5MV5BMl5BanBnXkFtZTgwMDk1MTA5MTE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Braveheart",
+"author": "Mel Gibson (dir.), Mel Gibson, Sophie Marceau",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMyNGE1ODQtYTNiNS00ZTUyLThhZjktMTgyOGZkZThlYTc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Amélie",
+"author": "Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA3MjVkMWMtYTQ4ZC00ODczLWFjYmQtMDFkZDQ2Y2M0NDVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Requiem for a Dream",
+"author": "Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "A Clockwork Orange",
+"author": "Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Taxi Driver",
+"author": "Martin Scorsese (dir.), Robert De Niro, Jodie Foster",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Lawrence of Arabia",
+"author": "David Lean (dir.), Peter O'Toole, Alec Guinness",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Like Stars on Earth",
+"author": "Aamir Khan (dir.), Darsheel Safary, Aamir Khan",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4NzYwNjYzNV5BMl5BanBnXkFtZTcwNjE4MjA3Mg@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Double Indemnity",
+"author": "Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmRmYmZkZTktZDc5ZC00ZjZmLTg4NWMtYjM3MjcyNTVjNGQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "To Kill a Mockingbird",
+"author": "Robert Mulligan (dir.), Gregory Peck, John Megna",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Eternal Sunshine of the Spotless Mind",
+"author": "Michel Gondry (dir.), Jim Carrey, Kate Winslet",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Toy Story 3",
+"author": "Lee Unkrich (dir.), Tom Hanks, Tim Allen",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Amadeus",
+"author": "Milos Forman (dir.), F. Murray Abraham, Tom Hulce",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "My Father and My Son",
+"author": "Çagan Irmak (dir.), Fikret Kuskan, Çetin Tekindor",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI1NTQ3MjEyM15BMl5BanBnXkFtZTcwMzUxMzIzMQ@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Full Metal Jacket",
+"author": "Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4NzY4ODk4Nl5BMl5BanBnXkFtZTgwOTcxNTYxMTE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Sting",
+"author": "George Roy Hill (dir.), Paul Newman, Robert Redford",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MjM1OTAyOV5BMl5BanBnXkFtZTgwMDkwODg4MDE@._V1._CR52,57,915,1388_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "2001: A Space Odyssey",
+"author": "Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Singin' in the Rain",
+"author": "Stanley Donen (dir.), Gene Kelly, Donald O'Connor",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Bicycle Thieves",
+"author": "Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI3NTcwNzEtNDA1MS00ZjE0LThkNDEtMmU4MjVmNTQ1ZDBmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Toy Story",
+"author": "John Lasseter (dir.), Tom Hanks, Tim Allen",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Dangal",
+"author": "Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Hacksaw Ridge",
+"author": "Mel Gibson (dir.), Andrew Garfield, Sam Worthington",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Inglourious Basterds",
+"author": "Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Snatch",
+"author": "Guy Ritchie (dir.), Jason Statham, Brad Pitt",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Kid",
+"author": "Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Monty Python and the Holy Grail",
+"author": "Terry Gilliam (dir.), Graham Chapman, John Cleese",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmFlYWI1MTUtYjBhZC00ZjlkLWE1MDQtZDIzNzNlNTdiZjE5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "L.A. Confidential",
+"author": "Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDBlYzAwZDktNzM2MS00YzBlLWI4ODQtZTlkNmMxZDc3NGRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "3 Idiots",
+"author": "Rajkumar Hirani (dir.), Aamir Khan, Madhavan",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWRlNDdkNzItMzhlZC00YTdmLWIwNjktYjY5NjQ1ZmQ3N2FkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg"
+},
+{
+"title": "For a Few Dollars More",
+"author": "Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzMjIzOTEzMF5BMl5BanBnXkFtZTcwMTUzNTk3NA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Scarface",
+"author": "Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzOTM4MzEwNl5BMl5BanBnXkFtZTgwMzU1OTc1MDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Rashomon",
+"author": "Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",
+"rating": "8.3",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Apartment",
+"author": "Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjgzNTlmZjctZmEyYi00MzVmLWExNjUtMzQyYmQyN2Y0MzFhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Hunt",
+"author": "Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Good Will Hunting",
+"author": "Gus Van Sant (dir.), Robin Williams, Matt Damon",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Indiana Jones and the Last Crusade",
+"author": "Steven Spielberg (dir.), Harrison Ford, Sean Connery",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "A Separation",
+"author": "Asghar Farhadi (dir.), Peyman Moaadi, Leila Hatami",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Metropolis",
+"author": "Fritz Lang (dir.), Brigitte Helm, Alfred Abel",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDAzNTkyODg1MF5BMl5BanBnXkFtZTgwMDA3NDkwMDE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Yojimbo",
+"author": "Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "All About Eve",
+"author": "Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Batman Begins",
+"author": "Christopher Nolan (dir.), Christian Bale, Michael Caine",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTc0MzM2OV5BMl5BanBnXkFtZTYwNzUwMTI3._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Up",
+"author": "Pete Docter (dir.), Edward Asner, Jordan Nagai",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Some Like It Hot",
+"author": "Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Treasure of the Sierra Madre",
+"author": "John Huston (dir.), Humphrey Bogart, Walter Huston",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzUzOTYwOV5BMl5BanBnXkFtZTgwNDA4MzgyMjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Unforgiven",
+"author": "Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Downfall",
+"author": "Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1OTI1MjE2Nl5BMl5BanBnXkFtZTcwMTEwMzc4NA@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Raging Bull",
+"author": "Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOTg3OTc5MF5BMl5BanBnXkFtZTcwNzkwNjMwNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Third Man",
+"author": "Carol Reed (dir.), Orson Welles, Joseph Cotten",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTllZWVkYzUtY2I4My00NDcyLWIzYjMtOTI1ZTJjZGNmYzc5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Die Hard",
+"author": "John McTiernan (dir.), Bruce Willis, Alan Rickman",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzNmY2IwYzAtNDQ1NC00MmI4LThkOTgtZmVhYmExOTVhMWRkXkEyXkFqcGdeQXVyMTk5NDA3Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Children of Heaven",
+"author": "Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0OTk4MDEwMV5BMl5BanBnXkFtZTYwNzMwNzI5._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Great Escape",
+"author": "John Sturges (dir.), Steve McQueen, James Garner",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2MTQwNDI3Nl5BMl5BanBnXkFtZTcwNDk4MTkzNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Heat",
+"author": "Michael Mann (dir.), Al Pacino, Robert De Niro",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Chinatown",
+"author": "Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZiZTA5MWItNTgyMy00ZGZkLThjNGQtOWI0MTU5ZDI4NmJmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Inside Out",
+"author": "Pete Docter (dir.), Amy Poehler, Bill Hader",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Pan's Labyrinth",
+"author": "Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Ikiru",
+"author": "Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWU4NmM5OTgtODk1MC00NThiLThkNjMtOWM5MGIzYjEyNmY5XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "My Neighbor Totoro",
+"author": "Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3NzY5ODQwMV5BMl5BanBnXkFtZTcwNzY1NzcxNw@@._V1_UY67_CR2,0,45,67_AL_.jpg"
+},
+{
+"title": "On the Waterfront",
+"author": "Elia Kazan (dir.), Marlon Brando, Karl Malden",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwMTU3MjI1OV5BMl5BanBnXkFtZTgwNjE2OTI3MjE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Room",
+"author": "Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Ran",
+"author": "Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Gold Rush",
+"author": "Charles Chaplin (dir.), Charles Chaplin, Mack Swain",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzYzMDQyNzA4NV5BMl5BanBnXkFtZTYwNDU5NDU5._V1_UY67_CR2,0,45,67_AL_.jpg"
+},
+{
+"title": "The Secret in Their Eyes",
+"author": "Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Bridge on the River Kwai",
+"author": "David Lean (dir.), William Holden, Alec Guinness",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODAwNWY1ODgtODJlOC00NjRlLThmODQtNmY0YmM4NzIwOTM5XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Blade Runner",
+"author": "Ridley Scott (dir.), Harrison Ford, Rutger Hauer",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWZlYmEyYTItNGRjYy00ZmMxLWEzMWItM2Q2NjZlNTMwMjQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Mr. Smith Goes to Washington",
+"author": "Frank Capra (dir.), James Stewart, Jean Arthur",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxMjRiMGUtN2Q1Zi00ODg5LThhMTItMTJmNTRmYWFhNGRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Seventh Seal",
+"author": "Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDMxZjI4OGUtMzZhZS00ZTcwLWIyYWUtZTQ0Zjg4ZmIzYTcwXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Howl's Moving Castle",
+"author": "Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Lock, Stock and Two Smoking Barrels",
+"author": "Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Arrival",
+"author": "Denis Villeneuve (dir.), Amy Adams, Jeremy Renner",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Judgment at Nuremberg",
+"author": "Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Casino",
+"author": "Martin Scorsese (dir.), Robert De Niro, Sharon Stone",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Bandit",
+"author": "Yavuz Turgul (dir.), Sener Sen, Ugur Yücel",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Incendies",
+"author": "Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MzA0NjI5OF5BMl5BanBnXkFtZTcwNTUwMzQzNg@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "A Beautiful Mind",
+"author": "Ron Howard (dir.), Russell Crowe, Ed Harris",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "A Wednesday",
+"author": "Neeraj Pandey (dir.), Anupam Kher, Naseeruddin Shah",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzODEzMjE1MTJeQTJeQWpwZ15BbWU3MDE3NjQ5Mzk@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The General",
+"author": "Clyde Bruckman (dir.), Buster Keaton, Marion Mack",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQxMzMyNTY5Nl5BMl5BanBnXkFtZTcwMDMyNTk3OA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Wild Strawberries",
+"author": "Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjgwNjI3NTM1MF5BMl5BanBnXkFtZTgwNzY3MTUyMjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Elephant Man",
+"author": "David Lynch (dir.), Anthony Hopkins, John Hurt",
+"rating": "8.2",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "V for Vendetta",
+"author": "James McTeigue (dir.), Hugo Weaving, Natalie Portman",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Warrior",
+"author": "Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Wolf of Wall Street",
+"author": "Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Sunrise",
+"author": "F.W. Murnau (dir.), George O'Brien, Janet Gaynor",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIzNzg4MzcxNV5BMl5BanBnXkFtZTgwMTgzNTE0MTE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Passion of Joan of Arc",
+"author": "Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMjk5ODUxMl5BMl5BanBnXkFtZTgwNDI2MjUwMzE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Gran Torino",
+"author": "Clint Eastwood (dir.), Clint Eastwood, Bee Vang",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMTczMTAxMl5BMl5BanBnXkFtZTcwOTc1ODE0Mg@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Rang De Basanti",
+"author": "Rakeysh Omprakash Mehra (dir.), Aamir Khan, Soha Ali Khan",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwNzA5MjAwN15BMl5BanBnXkFtZTcwMzY5MzIzMQ@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Trainspotting",
+"author": "Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Dial M for Murder",
+"author": "Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyNzc4ODk4N15BMl5BanBnXkFtZTcwMDE5ODEwNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Big Lebowski",
+"author": "Joel Coen (dir.), Jeff Bridges, John Goodman",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTFjMjBiYzItNzU5YS00MjdiLWJkOTktNDQ3MTE3ZjY2YTY5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Tokyo Story",
+"author": "Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmIxZGIzZmMtMGU3Ny00OWU2LWI2NjMtZmVjN2M0MDYwMmVlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Deer Hunter",
+"author": "Michael Cimino (dir.), Robert De Niro, Christopher Walken",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzYmRmZTQtYjk2NS00MDdlLTkxMDAtMTE2YTM2ZmNlMTBkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Gone with the Wind",
+"author": "Victor Fleming (dir.), Clark Gable, Vivien Leigh",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWQwOWVkMGItMDU2Yy00YjIzLWJkMjEtNmVkZjE3MjMwYzEzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Fargo",
+"author": "Joel Coen (dir.), William H. Macy, Frances McDormand",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Finding Nemo",
+"author": "Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Hera Pheri",
+"author": "Priyadarshan (dir.), Akshay Kumar, Paresh Rawal",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTYwNDdmNmEtOGZhYS00MjRiLWIzOWUtNDQxNzg4ZTVjMGE1XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Andaz Apna Apna",
+"author": "Rajkumar Santoshi (dir.), Aamir Khan, Salman Khan",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWE2MjhjMmMtNzQyMS00MmI0LTlkOTUtZDVlZjFlNmZkNDgyL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Sixth Sense",
+"author": "M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Thing",
+"author": "John Carpenter (dir.), Kurt Russell, Wilford Brimley",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDcyZmFjY2YtN2I1OC00MzU3LWIzZGEtZDA5N2VlNDJjYWI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Cool Hand Luke",
+"author": "Stuart Rosenberg (dir.), Paul Newman, George Kennedy",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Rebecca",
+"author": "Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDBjZTBjMmQtZDVjMy00ZjA0LWJkMzktNjU0ZTAzODgzMDJiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "No Country for Old Men",
+"author": "Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "How to Train Your Dragon",
+"author": "Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Munna Bhai M.B.B.S.",
+"author": "Rajkumar Hirani (dir.), Sunil Dutt, Sanjay Dutt",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NzQ3NjAxMV5BMl5BanBnXkFtZTcwNDg2ODgzMQ@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Sholay",
+"author": "Ramesh Sippy (dir.), Dharmendra, Sanjeev Kumar",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWQ0YTUzYzItYjI0MC00OTZmLWE1MWQtY2EzMzU2MTlmMmJjXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_UY67_CR3,0,45,67_AL_.jpg"
+},
+{
+"title": "Kill Bill: Vol. 1",
+"author": "Quentin Tarantino (dir.), Uma Thurman, David Carradine",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NDg1Mzg4M15BMl5BanBnXkFtZTYwMDExOTc3._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Into the Wild",
+"author": "Sean Penn (dir.), Emile Hirsch, Vince Vaughn",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Mary and Max",
+"author": "Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NDIyNTA1Nl5BMl5BanBnXkFtZTcwMjc2Njk3OA@@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Gone Girl",
+"author": "David Fincher (dir.), Ben Affleck, Rosamund Pike",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "There Will Be Blood",
+"author": "Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Come and See",
+"author": "Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BM2UxNDkzMmYtOThlYi00ZmRjLWIyYzQtYTM5YWIzNWE1NzMzXkEyXkFqcGdeQXVyNTc2MDU0NDE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "It Happened One Night",
+"author": "Frank Capra (dir.), Clark Gable, Claudette Colbert",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczOTQ1MTQ4MF5BMl5BanBnXkFtZTcwODI2MDk4OQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Life of Brian",
+"author": "Terry Jones (dir.), Graham Chapman, John Cleese",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Rush",
+"author": "Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzIwNDk3ZDctZTQ3MS00MTBmLTkzNGMtMDcwMWI3ZjExZWI4XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Hotel Rwanda",
+"author": "Terry George (dir.), Don Cheadle, Sophie Okonedo",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2MzQyNTc1M15BMl5BanBnXkFtZTYwMjExNjc3._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Platoon",
+"author": "Oliver Stone (dir.), Charlie Sheen, Tom Berenger",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZmJlOTE1ZTgtODdmNC00NmZhLThlZDYtNTllMmIyOTIwN2EwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Shutter Island",
+"author": "Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mg@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Network",
+"author": "Sidney Lumet (dir.), Faye Dunaway, William Holden",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzk5MjcxNTg2MF5BMl5BanBnXkFtZTgwMzY2MTUxMDE@._V1_UY67_CR2,0,45,67_AL_.jpg"
+},
+{
+"title": "The Wages of Fear",
+"author": "Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MzkyNDgyMF5BMl5BanBnXkFtZTgwODg2MTMzMjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Star Wars: The Force Awakens",
+"author": "J.J. Abrams (dir.), Daisy Ridley, John Boyega",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Stand by Me",
+"author": "Rob Reiner (dir.), Wil Wheaton, River Phoenix",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxODliZDYtMGMyYy00ZDQzLTgzOTMtMWY5YWEyNTBhNzk5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "In the Name of the Father",
+"author": "Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNjMyMzI0OV5BMl5BanBnXkFtZTgwMDU4NjkzMTE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Spotlight",
+"author": "Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Wild Tales",
+"author": "Damián Szifrón (dir.), Darío Grandinetti, María Marull",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Nights of Cabiria",
+"author": "Federico Fellini (dir.), Giulietta Masina, François Périer",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjllMDcyY2YtZDc5Zi00NDRlLThkZmItMTJhOWZmYjM0NmQyXkEyXkFqcGdeQXVyNTc1NDM0NDU@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Butch Cassidy and the Sundance Kid",
+"author": "George Roy Hill (dir.), Paul Newman, Robert Redford",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The 400 Blows",
+"author": "François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQzNTMzOTA2Ml5BMl5BanBnXkFtZTgwNDQ2OTI3MjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Mad Max: Fury Road",
+"author": "George Miller (dir.), Tom Hardy, Charlize Theron",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Maltese Falcon",
+"author": "John Huston (dir.), Humphrey Bogart, Mary Astor",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4MDEzOTMwMl5BMl5BanBnXkFtZTgwMTc2NjgyMjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "12 Years a Slave",
+"author": "Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Ben-Hur",
+"author": "William Wyler (dir.), Charlton Heston, Jack Hawkins",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Grand Budapest Hotel",
+"author": "Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Persona",
+"author": "Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc1OTgxNjYyNF5BMl5BanBnXkFtZTcwNjM2MjM2NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Million Dollar Baby",
+"author": "Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Amores Perros",
+"author": "Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjYwYzliYTktMzk3MS00MzE0LTllM2QtMDk3MTFmOGQ2MjE0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Jurassic Park",
+"author": "Steven Spielberg (dir.), Sam Neill, Laura Dern",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Princess Bride",
+"author": "Rob Reiner (dir.), Cary Elwes, Mandy Patinkin",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Hachi: A Dog's Tale",
+"author": "Lasse Hallström (dir.), Richard Gere, Joan Allen",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAxMDA2MjM4NDReQTJeQWpwZ15BbWU3MDE0NTgxMTM@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Memories of Murder",
+"author": "Joon-ho Bong (dir.), Kang-ho Song, Sang-kyung Kim",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWYyYTk5ODQtNjFjZi00ZDFlLWEwNGEtNGQwZTdmYWRhNmU3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Drishyam",
+"author": "Nishikant Kamat (dir.), Ajay Devgn, Shriya Saran",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyMjgyNDY3N15BMl5BanBnXkFtZTgwOTMzNTE5NTE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Stalker",
+"author": "Andrei Tarkovsky (dir.), Alisa Freyndlikh, Aleksandr Kaydanovskiy",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDY2NjU0NDAxOF5BMl5BanBnXkFtZTgwNjQ4MTI2MTE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Nausicaä of the Valley of the Wind",
+"author": "Hayao Miyazaki (dir.), Sumi Shimamoto, Mahito Tsujimura",
+"rating": "8.1",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWU0NzY2YjktYmY2Ni00ODZmLWJjYjctOWY1MzBkOWM4M2MwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Truman Show",
+"author": "Peter Weir (dir.), Jim Carrey, Ed Harris",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Grapes of Wrath",
+"author": "John Ford (dir.), Henry Fonda, Jane Darwell",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOWZkYTdkYTktNWIxYi00MjU2LTgzMzQtY2M2MzE1MjE4ZmU5XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Before Sunrise",
+"author": "Richard Linklater (dir.), Ethan Hawke, Julie Delpy",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Touch of Evil",
+"author": "Orson Welles (dir.), Charlton Heston, Orson Welles",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTBlNGM0MjMtMDBhNi00NGJhLTliOTUtNDdlNjUwMTBkOTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Annie Hall",
+"author": "Woody Allen (dir.), Woody Allen, Diane Keaton",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NDM2MjkwM15BMl5BanBnXkFtZTcwODU3OTYwNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Message",
+"author": "Moustapha Akkad (dir.), Anthony Quinn, Irene Papas",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjk3YjJmYTctMTAzZC00MzE4LWFlZGMtNDM5OTMyMDEzZWIxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Rocky",
+"author": "John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Gandhi",
+"author": "Richard Attenborough (dir.), Ben Kingsley, John Gielgud",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Harry Potter and the Deathly Hallows: Part 2",
+"author": "David Yates (dir.), Daniel Radcliffe, Emma Watson",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTk3MDQ1N15BMl5BanBnXkFtZTcwMzI4NzA2NQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Diabolique",
+"author": "Henri-Georges Clouzot (dir.), Simone Signoret, Véra Clouzot",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMGJmNmU5OTAtOTQyYy00MmM3LTk4MzUtMGFiZDYzODdmMmU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg"
+},
+{
+"title": "The Bourne Ultimatum",
+"author": "Paul Greengrass (dir.), Matt Damon, Edgar Ramírez",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGNiNmU2YTMtZmU4OS00MjM0LTlmYWUtMjVlYjAzYjE2N2RjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Donnie Darko",
+"author": "Richard Kelly (dir.), Jake Gyllenhaal, Jena Malone",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWQyN2ZkODktMTBkNS00OTBjLWJhOGYtNGU4YWVkNTY0ZDZkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Monsters, Inc.",
+"author": "Pete Docter (dir.), Billy Crystal, John Goodman",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Prisoners",
+"author": "Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "8½",
+"author": "Federico Fellini (dir.), Marcello Mastroianni, Anouk Aimée",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MTA0NjEzMF5BMl5BanBnXkFtZTgwMDg4NDYxMzE@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "The Terminator",
+"author": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODE1MDczNTUxOV5BMl5BanBnXkFtZTcwMTA0NDQyNA@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Wizard of Oz",
+"author": "Victor Fleming (dir.), Judy Garland, Frank Morgan",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Groundhog Day",
+"author": "Harold Ramis (dir.), Bill Murray, Andie MacDowell",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Catch Me If You Can",
+"author": "Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Zootopia",
+"author": "Byron Howard (dir.), Ginnifer Goodwin, Jason Bateman",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Twelve Monkeys",
+"author": "Terry Gilliam (dir.), Bruce Willis, Madeleine Stowe",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "La Haine",
+"author": "Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg"
+},
+{
+"title": "Barry Lyndon",
+"author": "Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNzkyMjQ4N15BMl5BanBnXkFtZTcwOTQ2NjU4Mw@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Jaws",
+"author": "Steven Spielberg (dir.), Roy Scheider, Robert Shaw",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTdiNmRhNzUtZWViMi00YmE5LWJhYTItYWRhOGVjNTdhNTViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Udaan",
+"author": "Vikramaditya Motwane (dir.), Rajat Barmecha, Sanjay Gandhi",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzgxMzExMzUwNV5BMl5BanBnXkFtZTcwMDc2MjUwNA@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Best Years of Our Lives",
+"author": "William Wyler (dir.), Fredric March, Dana Andrews",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NTAxNzg3Nl5BMl5BanBnXkFtZTcwNjU4OTQwNw@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Infernal Affairs",
+"author": "Wai-Keung Lau (dir.), Andy Lau, Tony Leung Chiu-Wai",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzNjNmU0MDUtYWJjNi00YWExLThmZmQtNDE1NDE4ODI1OWMzL2ltYWdlXkEyXkFqcGdeQXVyNDE3OTAyNDU@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Strangers on a Train",
+"author": "Alfred Hitchcock (dir.), Farley Granger, Robert Walker",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjk5Nzg4OTMtNzNjYi00NjQzLTg3NzEtOWUyNWRkZDk4ODllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Battle of Algiers",
+"author": "Gillo Pontecorvo (dir.), Brahim Hadjadj, Jean Martin",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BYzliNzI5NzgtNDZmNy00NGU4LTg2OTQtMDEzZTRiNDU3ZTI1XkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_UY67_CR2,0,45,67_AL_.jpg"
+},
+{
+"title": "Dog Day Afternoon",
+"author": "Sidney Lumet (dir.), Al Pacino, John Cazale",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODExZmE2ZWItYTIzOC00MzI1LTgyNTktMDBhNmFhY2Y4OTQ3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Sin City",
+"author": "Frank Miller (dir.), Mickey Rourke, Clive Owen",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BODZmYjMwNzEtNzVhNC00ZTRmLTk2M2UtNzE1MTQ2ZDAxNjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Kind Hearts and Coronets",
+"author": "Robert Hamer (dir.), Dennis Price, Alec Guinness",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjI5N2Y4YWEtYThmOC00ODA0LTlhMGYtNmE3MmVmNjNhYWQyXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Help",
+"author": "Tate Taylor (dir.), Emma Stone, Viola Davis",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "PK",
+"author": "Rajkumar Hirani (dir.), Aamir Khan, Anushka Sharma",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "The Imitation Game",
+"author": "Morten Tyldum (dir.), Benedict Cumberbatch, Keira Knightley",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_UY67_CR0,0,45,67_AL_.jpg"
+},
+{
+"title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+"author": "Gore Verbinski (dir.), Johnny Depp, Geoffrey Rush",
+"rating": "8.0",
+"img": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNDM4MTc2N15BMl5BanBnXkFtZTYwNDk0Mjc3._V1_UY67_CR0,0,45,67_AL_.jpg"
+}
+]
