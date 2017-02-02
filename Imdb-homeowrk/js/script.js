@@ -53,8 +53,6 @@ $(() => {
         let filterMovies = movies;
         displayPage(pageNumber, pageSize, movies, $table)
 
-
-
         $("#previous").on("click", () => {
             if (pageNumber > 1) {
                 pageNumber -= 1;
@@ -105,8 +103,6 @@ $(() => {
             displayPage(pageNumber, pageSize, filterMovies, $table);
         });
 
-
-
         let sorted = false;
         let movieName = $("#movieName").on("click", () => {
             if(!sorted){
@@ -118,7 +114,6 @@ $(() => {
                 if(a.title > b.title) {
                     return 1;
                 }
-                
                 return 0;
             })
             displayPage(pageNumber, pageSize, filterMovies, $table);
@@ -126,11 +121,10 @@ $(() => {
             else if(sorted) {
                 filterMovies.reverse();
                 sorted = false;
-                
             }
             displayPage(pageNumber, pageSize, filterMovies, $table);
         })
-        
+
     };
 });
 
