@@ -27,16 +27,18 @@ let displayPage = (pageNumber, pageSize, movies, $table) => {
     let endIndex = pageNumber * pageSize;
     let displayMovies = movies.slice(startIndex, endIndex);
     displayMovies.forEach(m => addMovies(m, $table));
-
-    let $rows = $("#tBody tr");
-    $('#searchItem').keyup(function () {
-        let val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase(); // the /+/g, '' ignores space between words ex. "The       Lord of    the Rings"-----will actually be The Lord Of the Rings!
-        $rows.show().filter(function () {
-            let text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
-            return !~text.indexOf(val);
-        }).hide();
-    });
+    $("#display").text(`Showing ${startIndex + 1} - ${endIndex} out of ${movies.length}, page ${pageNumber}`);
 }
+
+$("#moviesPerPage").on("keyup", () => {
+    let value = $("#moviesPerPage").val();
+
+    pageSize = value;
+    pageNumber = 1;
+
+    displayPage(pageNumber, pageSize, movies, $table);
+});
+
 // jquerry skraten document.ready 
 $(() => {
     let getData = new XMLHttpRequest();
@@ -44,14 +46,14 @@ $(() => {
     getData.send();
 
     getData.onload = function () {
-        debugger;
         let jsonData = JSON.parse(getData.response);
         let movies = jsonData;
         let filterMovies = movies;
-        displayPage(pageNumber, pageSize, filterMovies, $table)
+        displayPage(pageNumber, pageSize, movies, $table)
+
+
 
         $("#previous").on("click", () => {
-            debugger;
             if (pageNumber > 1) {
                 pageNumber -= 1;
             }
@@ -64,33 +66,51 @@ $(() => {
             if (pageNumber < maxPageNumber) {
                 pageNumber += 1;
             }
-            displayPage(pageNumber, pageSize, movies, $table);
+            displayPage(pageNumber, pageSize, filterMovies, $table);
         })
+
+        $("#searchItem").on("keyup", () => {
+            debugger;
+            let searchItem = $("#searchItem").val();
+            if (!searchItem)
+                return;
+            searchItem = searchItem.replace(/\s+/g, ' ').toLowerCase();
+
+            filterMovies = movies.filter(data => {
+                if (data.author.replace(/\s+/g, ' ').toLowerCase().indexOf(searchItem) !== -1)
+                    return true;
+                if (data.title.replace(/\s+/g, ' ').toLowerCase().indexOf(searchItem) !== -1)
+                    return true;
+                return false;
+            });
+            pageNumber = 1;
+            displayPage(pageNumber, pageSize, movies, $table);
+            $table.html("");
+            filterMovies.forEach((a) => {
+                addMovies(a, $table);
+            })
+
+        });
+        // How many movies to show on a page.
+        $("#moviesPerPage").on("keyup", () => {
+            let value = $("#moviesPerPage").val();
+
+            pageSize = value;
+            pageNumber = 1;
+            if (pageSize == ""){
+                pageSize = 20;
+            }
+            displayPage(pageNumber, pageSize, filterMovies, $table);
+        });
     };
 });
 
 
- 
-
-
-    // $("#search").on("click", () => {
-    //     let searchItem = $("#searchItem").val();
-    //     if (!searchItem)
-    //         return;
-    //     searchItem = searchItem.toLowerCase();
-
-    //     filterMovies = movies.filter(data => {
-    //         if (data.author.toLowerCase().indexOf(searchItem) !== -1)
-    //             return true;
-    //         if (data.title.toLowerCase().indexOf(searchItem) !== -1)
-    //             return true;
-    //         return false;
-    //     });
-    //     $table.html("");
-    //     filterMovies.forEach((a)=>{
-    //         appendMovies(a,$table);
-    //     })
-
+    // let $rows = $("#tBody tr");
+    // $('#searchItem').keyup(function () {
+    //     let val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase(); // the /+/g, '' ignores space between words ex. "The       Lord of    the Rings"-----will actually be The Lord Of the Rings!
+    //     $rows.show().filter(function () {
+    //         let text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+    //         return !~text.indexOf(val);
+    //     }).hide();
     // });
-
-
