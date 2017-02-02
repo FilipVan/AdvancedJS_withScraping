@@ -2,8 +2,8 @@ let $table = $("tbody");
 // Add Movies on html.
 let addMovies = (data, $table) => {
     $table.append(
-        `<tr col-xs-3 class="bg-primary table-active">
-                <td class="bg-success"><a href = "http://www.imdb.com/chart/top?ref_=nv_mv_250_6"></a><img src="${data.img}"></td>
+        `<tr col-xs-3 class="bg-primary table-active table-inverse">
+                <td><a href = "http://www.imdb.com/chart/top?ref_=nv_mv_250_6"></a><img class = "widthFix" src="${data.img}"></td>
                 <td>${data.title}</td>
                 <td>${data.rating}</td>
                 <td>${data.author}</td>
@@ -29,6 +29,8 @@ let displayPage = (pageNumber, pageSize, movies, $table) => {
     displayMovies.forEach(m => addMovies(m, $table));
     $("#display").text(`Showing ${startIndex + 1} - ${endIndex} out of ${movies.length}, page ${pageNumber}`);
 }
+
+
 $("#moviesPerPage").val("20")
 $("#moviesPerPage").on("keyup", () => {
     let value = $("#moviesPerPage").val();
@@ -102,6 +104,35 @@ $(() => {
             }
             displayPage(pageNumber, pageSize, filterMovies, $table);
         });
+        // let $rating = $("#rating");
+        // let $title = $("#title");
+        // let $dir = $("#dir");
+        // let sorted = false;
+
+        // function sort(filterMovies) {
+        //     if (!sorted) {
+        //         filterMovies.sort()
+        //         sorted = true;
+        //         displayPage(pageNumber, pageSize, filterMovies, $table);
+        //     }
+
+
+        //     if (sorted) {
+        //         filterMovies.reverse()
+        //         sorted = false;
+        //         displaypage(pageNumber, pageSize, filterMovies, $table);
+        //     }
+        // }
+
+        // let $title = $("#title").on("click", () => {
+        //     filterMovies.forEach().sort()
+        //     isSorted = true;
+        //     if (isSorted) {
+        //         isSorted = false;
+        //     }
+        //     displayPage(pageNumber, pageSize, filterMovies, $table);
+
+        // })
     };
 });
 
