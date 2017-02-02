@@ -1,40 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
-    
+
+    <button id="previous">Previous</button><span id="display">Showing # to # of #</span> <button id="next">Next</button>
 
 
-
-    <table id="myTable"> 
+    <table id="myTable">
         <input id="searchItem" type="text" name="search">
         <br>
-        <input id = "moviesPerPage" type = "number" name = "numberMovies">
-        <button id="search" >Search</button>
+        <input type="number" id="moviesPerPage" name="listedMovies">
+        <button id="search">Search</button>
         <thead>
-            <tr>
+            <tr class="header">
                 <th>
-                    Title
+                    Poster
                 </th>
                 <th>
                     Rating
                 </th>
                 <th>Author</th>
-                <th>Poster</th>
+                <th>Title</th>
             </tr>
         </thead>
         <tbody id="tBody">
-            
+
         </tbody>
-        
+
     </table>
-    
 
 
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
     <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.1.1.min.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="javascript/script.js"></script>
 </body>
+
 </html>
