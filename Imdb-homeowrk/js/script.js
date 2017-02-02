@@ -2,8 +2,8 @@ let $table = $("tbody");
 // Add Movies on html.
 let addMovies = (data, $table) => {
     $table.append(
-        `<tr>
-                <td><a href = "http://www.imdb.com/chart/top?ref_=nv_mv_250_6"></a><img src="${data.img}"></td>
+        `<tr col-xs-3 class="bg-primary table-active">
+                <td class="bg-success"><a href = "http://www.imdb.com/chart/top?ref_=nv_mv_250_6"></a><img src="${data.img}"></td>
                 <td>${data.title}</td>
                 <td>${data.rating}</td>
                 <td>${data.author}</td>
@@ -17,7 +17,7 @@ let movies = [];
 let filterMovies = []
 
 
-let removeRows = function () {
+let removeRows = function() {
     $table.html("");
 }
 
@@ -29,7 +29,7 @@ let displayPage = (pageNumber, pageSize, movies, $table) => {
     displayMovies.forEach(m => addMovies(m, $table));
     $("#display").text(`Showing ${startIndex + 1} - ${endIndex} out of ${movies.length}, page ${pageNumber}`);
 }
-
+$("#moviesPerPage").val("20")
 $("#moviesPerPage").on("keyup", () => {
     let value = $("#moviesPerPage").val();
 
@@ -45,7 +45,7 @@ $(() => {
     getData.open("GET", "javascript/movies.json", true);
     getData.send();
 
-    getData.onload = function () {
+    getData.onload = function() {
         let jsonData = JSON.parse(getData.response);
         let movies = jsonData;
         let filterMovies = movies;
@@ -97,7 +97,7 @@ $(() => {
 
             pageSize = value;
             pageNumber = 1;
-            if (pageSize == ""){
+            if (pageSize == "") {
                 pageSize = 20;
             }
             displayPage(pageNumber, pageSize, filterMovies, $table);
@@ -106,11 +106,11 @@ $(() => {
 });
 
 
-    // let $rows = $("#tBody tr");
-    // $('#searchItem').keyup(function () {
-    //     let val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase(); // the /+/g, '' ignores space between words ex. "The       Lord of    the Rings"-----will actually be The Lord Of the Rings!
-    //     $rows.show().filter(function () {
-    //         let text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
-    //         return !~text.indexOf(val);
-    //     }).hide();
-    // });
+// let $rows = $("#tBody tr");
+// $('#searchItem').keyup(function () {
+//     let val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase(); // the /+/g, '' ignores space between words ex. "The       Lord of    the Rings"-----will actually be The Lord Of the Rings!
+//     $rows.show().filter(function () {
+//         let text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+//         return !~text.indexOf(val);
+//     }).hide();
+// });
