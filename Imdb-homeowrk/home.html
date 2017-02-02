@@ -12,25 +12,25 @@
 
     <button id="previous">Previous</button><span id="display">Showing # to # of #</span> <button id="next">Next</button>
 
-
-    <table id="myTable">
-        <input id="searchItem" type="text" name="search">
+    <h1>IMDB's' Top 250 movies</h1>
+    <table id="myTable" class="table table-hover">
+        <input id="searchItem" type="text" name="search" placeholder="Search Directory...">
         <br>
-        <input type="number" id="moviesPerPage" name="listedMovies">
-        <button id="search">Search</button>
-        <thead>
-            <tr class="header">
+        <input type="number" id="moviesPerPage" name="listedMovies" placeholder="">
+
+        <thead class="thead-inverse">
+            <tr>
                 <th>
                     Poster
                 </th>
                 <th>
-                    Rating
+                    Title
                 </th>
-                <th>Author</th>
-                <th>Title</th>
+                <th>Rating</th>
+                <th>Director</th>
             </tr>
         </thead>
-        <tbody id="tBody">
+        <tbody id="tBody" class="">
 
         </tbody>
 
