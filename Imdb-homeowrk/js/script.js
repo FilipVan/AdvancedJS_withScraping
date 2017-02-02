@@ -17,7 +17,7 @@ let movies = [];
 let filterMovies = []
 
 
-let removeRows = function() {
+let removeRows = function () {
     $table.html("");
 }
 
@@ -47,7 +47,7 @@ $(() => {
     getData.open("GET", "javascript/movies.json", true);
     getData.send();
 
-    getData.onload = function() {
+    getData.onload = function () {
         let jsonData = JSON.parse(getData.response);
         let movies = jsonData;
         let filterMovies = movies;
@@ -104,35 +104,33 @@ $(() => {
             }
             displayPage(pageNumber, pageSize, filterMovies, $table);
         });
-        // let $rating = $("#rating");
-        // let $title = $("#title");
-        // let $dir = $("#dir");
-        // let sorted = false;
-
-        // function sort(filterMovies) {
-        //     if (!sorted) {
-        //         filterMovies.sort()
-        //         sorted = true;
-        //         displayPage(pageNumber, pageSize, filterMovies, $table);
-        //     }
 
 
-        //     if (sorted) {
-        //         filterMovies.reverse()
-        //         sorted = false;
-        //         displaypage(pageNumber, pageSize, filterMovies, $table);
-        //     }
-        // }
 
-        // let $title = $("#title").on("click", () => {
-        //     filterMovies.forEach().sort()
-        //     isSorted = true;
-        //     if (isSorted) {
-        //         isSorted = false;
-        //     }
-        //     displayPage(pageNumber, pageSize, filterMovies, $table);
-
-        // })
+        let sorted = false;
+        let movieName = $("#movieName").on("click", () => {
+            if(!sorted){
+                filterMovies.sort(function(a,b){
+                if(a.title < b.title){
+                    sorted = true;
+                    return -1;
+                }
+                if(a.title > b.title) {
+                    return 1;
+                }
+                
+                return 0;
+            })
+            displayPage(pageNumber, pageSize, filterMovies, $table);
+            }
+            else if(sorted) {
+                filterMovies.reverse();
+                sorted = false;
+                
+            }
+            displayPage(pageNumber, pageSize, filterMovies, $table);
+        })
+        
     };
 });
 
