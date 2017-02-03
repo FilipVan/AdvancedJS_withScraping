@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+}
+#tBody {
+    background-color: yellow
+    !important;
+}
+
+.inputFix{
+    display: inline-block;
+}
+#moviesPerPage{
+    left:150px;
+}
+
+#header{
+    left: 30%;
+}
+/*.header{
+    background-color: darkred;
+}
+
+#tBody {
+    border: 1px, solid, black;
+    background-color: grey;
+}**/
+
