@@ -1,12 +1,8 @@
 body{
-    background-color: grey;
-}
-#tBody {
-    background-color: yellow
-    !important;
+    background-color: lightgrey;
 }
 
-.inputFix{
+/*.inputFix{
     display: inline-block;
 }
 #moviesPerPage{
@@ -15,7 +11,7 @@ body{
 
 #header{
     left: 30%;
-}
+}*/
 /*.header{
     background-color: darkred;
 }
