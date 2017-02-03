@@ -10,32 +10,47 @@
 
 <body>
 
-    <button id="previous">Previous</button><span id="display">Showing # to # of #</span> <button id="next">Next</button>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h1 id="header">IMDB's' Top 250 movies</h1>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class=>
+                    <input class="inputFix" id="searchItem" type="text" name="search" placeholder="Search Directory...">
 
-    <h1>IMDB's' Top 250 movies</h1>
-    <table id="myTable" class="table table-hover">
-        <input id="searchItem" type="text" name="search" placeholder="Search Directory...">
-        <br>
-        <input type="number" id="moviesPerPage" name="listedMovies" placeholder="">
+                    <button class="btn btn-primary" id="previous">Previous</button><span id="display">Showing # to # of #</span>                    <button class="btn btn-primary" id="next">Next</button>
 
-        <thead class="thead-inverse">
-            <tr>
-                <th>
-                    Poster
-                </th>
-                <th id="title">
-                    Title
-                </th>
-                <th id="rating">Rating</th>
-                <th id="dir">Director</th>
-            </tr>
-        </thead>
-        <tbody id="tBody" class="">
+                    <input class="inputFix" type="number" id="moviesPerPage" name="listedMovies" placeholder="">
+                </div>
+            </div>
+        </div>
 
-        </tbody>
+        <div class="row">
+            <div class="col-xs-3">
+                <table id="myTable" class="table table-hover">
+                    <thead class="thead-inverse">
+                        <tr>
+                            <th>
+                                Poster
+                            </th>
+                            <th id="movieName">
+                                Title
+                            </th>
+                            <th id="rating">Rating</th>
+                            <th id="director">Director</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tBody" class="">
 
-    </table>
+                    </tbody>
 
+                </table>
+            </div>
+        </div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" crossorigin="anonymous"></script>
