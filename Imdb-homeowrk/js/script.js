@@ -2,7 +2,7 @@ let $table = $("tbody");
 // Add Movies on html.
 let addMovies = (data, $table) => {
     $table.append(
-        `<tr col-xs-3 class="bg-primary table-active table-inverse">
+        `<tr col-xs-3 class="table-inverse">
                 <td><a href = "http://www.imdb.com/chart/top?ref_=nv_mv_250_6"></a><img class = "widthFix" src="${data.img}"></td>
                 <td>${data.title}</td>
                 <td>${data.rating}</td>
@@ -27,11 +27,11 @@ let displayPage = (pageNumber, pageSize, movies, $table) => {
     let endIndex = pageNumber * pageSize;
     let displayMovies = movies.slice(startIndex, endIndex);
     displayMovies.forEach(m => addMovies(m, $table));
-    $("#display").text(`Showing ${startIndex + 1} - ${endIndex} out of ${movies.length}, page ${pageNumber}`);
+    $("#display").text(`PAGE ${pageNumber}`);
 }
 
 
-$("#moviesPerPage").val("20")
+
 $("#moviesPerPage").on("keyup", () => {
     let value = $("#moviesPerPage").val();
 
@@ -44,7 +44,7 @@ $("#moviesPerPage").on("keyup", () => {
 // jquerry skraten document.ready 
 $(() => {
     let getData = new XMLHttpRequest();
-    getData.open("GET", "javascript/movies.json", true);
+    getData.open("GET", "js/movies.json", true);
     getData.send();
 
     getData.onload = function () {
@@ -70,9 +70,8 @@ $(() => {
         })
 
         $("#searchItem").on("keyup", () => {
-            debugger;
             let searchItem = $("#searchItem").val();
-            if (!searchItem)
+            if (!searchItem) 
                 return;
             searchItem = searchItem.replace(/\s+/g, ' ').toLowerCase();
 
@@ -89,8 +88,13 @@ $(() => {
             filterMovies.forEach((a) => {
                 addMovies(a, $table);
             })
-
+            
+            if (searchItem.val == "") { debugger;
+                displayPage(pageNumber, pageSize, filterMovies, $table);
+            }
         });
+
+
         // How many movies to show on a page.
         $("#moviesPerPage").on("keyup", () => {
             let value = $("#moviesPerPage").val();
@@ -99,10 +103,12 @@ $(() => {
             pageNumber = 1;
             if (pageSize == "") {
                 pageSize = 20;
-            }
-            displayPage(pageNumber, pageSize, filterMovies, $table);
+                displayPage(pageNumber, pageSize, filterMovies, $table);
+            }            
         });
 
+
+        //SORTING
         let sorted = false;
         let movieName = $("#movieName").on("click", () => {
             if (!sorted) {
@@ -118,6 +124,7 @@ $(() => {
                 })
                 displayPage(pageNumber, pageSize, filterMovies, $table);
             }
+            // not working yet, when we delete the name of the searched movie with holding backspace I want to return the original list the we see before the search 
             else if (sorted) {
                 filterMovies.reverse();
                 sorted = false;
@@ -146,9 +153,10 @@ $(() => {
             displayPage(pageNumber, pageSize, filterMovies, $table);
         })
         let sortedRank = true;
-        let rating = $("#rating").on("click", function(){debugger
-            if(!sortedRank) {
-                filterMovies.sort(function(a, b){
+        let rating = $("#rating").on("click", function () {
+            debugger
+            if (!sortedRank) {
+                filterMovies.sort(function (a, b) {
                     sortedRank = true;
                     return a.rating - b.rating;
                 })
